@@ -3,6 +3,17 @@ background-color: cornflowerblue;
 font-family: Bai Jamjures;
 }
 
+#container{
+    display: flex;
+}
+
+.cartao{
+    
+}
+
+
+
+
 footer{
     background-color: black;
     color:white;
